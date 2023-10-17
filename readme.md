@@ -7,3 +7,4 @@ This is third commit
 ##  Feature-2
 
 This is commit-1 in Feature-2<br />
+This is commit-2 in Feature-2<br />
